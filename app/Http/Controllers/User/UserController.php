@@ -12,6 +12,6 @@ class UserController extends Controller
     public function getUser()
     {
         phpinfo();
-        var_dump(1111);
+        var_dump(1112221);
     }
 }
